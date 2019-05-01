@@ -38,6 +38,7 @@ namespace JSON_Final_Review
                     Movie movieType = JsonConvert.DeserializeObject<Movie>(movieResult);
                 }
 
+                
             }
         }
     }
